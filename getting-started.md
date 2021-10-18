@@ -20,8 +20,8 @@ As a final request, you are asked to upload copies of your figures 1 and 2 (alon
 Read your assignment sheet and follow along with the videos below.
 
 ### Assignment and Data Introduction
-
+<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/0f557c65-f881-4820-872b-32e4504227dd?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Manipulating Climate Data 
-
+<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/d29398a9-aba3-4c5f-a782-a64bb607646e?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
