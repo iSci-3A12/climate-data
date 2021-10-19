@@ -23,6 +23,8 @@ Read your assignment sheet and follow along with the videos below.
 <iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/d29398a9-aba3-4c5f-a782-a64bb607646e?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ### Manipulating Climate Data 
+- Make a copy of the demo Google Sheet by [clicking here](http://bit.ly/CC2021-CDADemo) and follow along with Jay's video: 
+ 
 <iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/0f557c65-f881-4820-872b-32e4504227dd?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ## Scrutinizing your graphs
